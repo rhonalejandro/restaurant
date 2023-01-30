@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2nEBR1zAcKczdrZChxw9RVOJ2s77ybweSuK8zUfgkrA+ZWb0Ct6AZthRbGk0q8m5987RiUiCWz3/oYqq06aKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desarollo\\Desktop\\POS\\Main File\\Sourcecode\\CYPOS\\CYPOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarollo\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\microsoft.reportviewer.common\\10.0.40219.1\\microsoft.reportviewer.common.10.0.40219.1.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\microsoft.reportviewer.runtime.common\\12.0.2402.15\\microsoft.reportviewer.runtime.common.12.0.2402.15.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\microsoft.reportviewer.runtime.winforms\\12.0.2402.15\\microsoft.reportviewer.runtime.winforms.12.0.2402.15.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.117\\stub.system.data.sqlite.core.netframework.1.0.117.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\system.data.sqlite\\1.0.117\\system.data.sqlite.1.0.117.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.117\\system.data.sqlite.ef6.1.0.117.nupkg.sha512",
+    "C:\\Users\\Desarollo\\.nuget\\packages\\system.data.sqlite.linq\\1.0.117\\system.data.sqlite.linq.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

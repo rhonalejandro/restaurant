@@ -1,0 +1,317 @@
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.BarCode.BarcodeCreator.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.BarcodeRDLC.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.BarCode.Barcode_machine.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.CreateBarcode.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Config.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Customer.Due_payment_History.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Expenses.AddExpense.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Expenses.ExpensesList.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Expenses.ViewDoc.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.About_soft.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Items.Add_Category.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Add_Item.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Items.Categories.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Chart.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Customer.AddCredit.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Customer.AddNewCustomer.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Customer.CustomerDetails.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Customer.RewardsManagerReport.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Database_import.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Data_Manage.DataReset.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Inventory.InvoicePrintCopy.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Items.Purchase_History.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Items.SRtaxcalc.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Items.StockDetails.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Stock_List.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.DueList.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.DueUpdate.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Help.HelpPageBarcode.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Home.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Import_Items.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Inventory.InvoicePrint.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.View_Sales_invoice.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.frmLogin.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.HelpPage.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Inventory.Add_Sales.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Inventory.StockShortList.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Manager_Home.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.KD_dialog.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.Kitchen_display.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Overview.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Properties.Resources.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.LedgerReport.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.PLdialog.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.ProfitLossReport.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.ReportDialog.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.SaleReportRdlc.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.SalesDetails.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.ShortCutReport.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Report.TopSales.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.SalesRagister.Currency_Shortcuts.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Return_product.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.SalesMan_Home.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.salesreport.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Payment.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.POSPrintRpt.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.frmMain.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.Sale_chart.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.SalesRegisterQC.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.User_mgt.Manage_user.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.User_mgt.TestUsers.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.User_mgt.UserProfile.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.UserRole.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.User_mgt.User_regi.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.User_mgt.WorkRecords.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.User_mgt.WorkSheet.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\RdlCompile.cache
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\RdlCompile.compiled
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\CYPOS.exe.config
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\CYPOS.exe
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\CYPOS.pdb
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\MyBarcode.dll
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\Spire.Barcode.dll
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\SQLite.NET.dll
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\bin\Debug\System.Windows.Forms.dll
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\CYPOS.exe
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\CYPOS.pdb
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\cypos.KeyPad.resources
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1196.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1176.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1228.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1226.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1240.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1242.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1247.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1248.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1267.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1271.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1284.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1285.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1295.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1298.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1283.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1325.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1338.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1352.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1350.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1356.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1357.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1365.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1367.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1368.tlog
+C:\Users\Manoj\Desktop\CYPOS\CYPOS\obj\Debug\GenerateResource.write.1373.tlog
+E:\CYPOS\CYPOS\bin\Debug\System.Data.DataSetExtensions.dll
+E:\CYPOS\CYPOS\bin\Debug\System.Data.SqlServerCe.dll
+E:\CYPOS\CYPOS\bin\Debug\System.Windows.Forms.dll
+E:\CYPOS\CYPOS\obj\Debug\cypos.CurrencyPad.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.NumberPad.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmChangePrice.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmCustomerPopup.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmItemPopup.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmModifiers.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmAbout.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmCompany.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmModifierList.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmOrderType.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmPayment.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmPurchase.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmRecallInvoices.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmSettings.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmSupplier.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmOpenTable.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmKeyboard.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmReports.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmCategory.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmItem.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmCustomer.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmDatabase.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmDueInvoices.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmCustomerPayment.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmLogin.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.KeyPad.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.MyMessageBox.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.Report.frmKitchenDisplay.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.Properties.Resources.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.MoneyPad.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmSalesReturn.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmBackOffice.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmMain.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmUserProfile.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmUser.resources
+E:\CYPOS\CYPOS\obj\Debug\CYPOS.csproj.GenerateResource.Cache
+E:\CYPOS\CYPOS\obj\Debug\RdlCompile.cache
+E:\CYPOS\CYPOS\obj\Debug\RdlCompile.compiled
+E:\CYPOS\CYPOS\obj\Debug\CYPOS.csprojResolveAssemblyReference.cache
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmPrintView.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmTableView.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmTable.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmTableLocation.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmPaymentType.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmPrinters.resources
+E:\CYPOS\CYPOS\bin\Debug\CYPOS Restaurant.exe.config
+E:\CYPOS\CYPOS\bin\Debug\CYPOS Restaurant.exe
+E:\CYPOS\CYPOS\bin\Debug\CYPOS Restaurant.pdb
+E:\CYPOS\CYPOS\obj\Debug\CYPOS Restaurant.exe
+E:\CYPOS\CYPOS\obj\Debug\CYPOS Restaurant.pdb
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmExpenses.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmExpenseGroup.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmPurchaseList.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.NumPad.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmNumberboard.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.CurPad.resources
+E:\CYPOS\CYPOS\obj\Debug\cypos.frmCurrencyboard.resources
+D:\Miscellaneous\Codecanyon\Projects\CYPOS\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.exe.config
+D:\Miscellaneous\Codecanyon\Projects\CYPOS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.exe
+D:\Miscellaneous\Codecanyon\Projects\CYPOS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.pdb
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.CurPad.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCurrencyboard.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmNumberboard.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.NumPad.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmExpenseGroup.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPurchaseList.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.CurrencyPad.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.NumberPad.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCategory.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmChangePrice.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCustomerPopup.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmItemPopup.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmModifiers.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmAbout.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCompany.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmModifierList.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmOrderType.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPayment.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPaymentType.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPrinters.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPurchase.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmRecallInvoices.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmSettings.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmSupplier.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmOpenTable.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmTable.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmTableLocation.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmTableView.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmExpenses.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmKeyboard.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmReports.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmItem.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCustomer.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmDatabase.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmDueInvoices.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCustomerPayment.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmLogin.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.KeyPad.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.MyMessageBox.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Report.frmKitchenDisplay.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Properties.Resources.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.MoneyPad.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmSalesReturn.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPrintView.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmBackOffice.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmMain.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmUserProfile.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmUser.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.GenerateResource.cache
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.exe
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.pdb
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.exe.config
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.exe
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.pdb
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\System.Windows.Forms.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.CopyComplete
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Languages.en_local.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Languages.es_local.resources
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.AssemblyReference.cache
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\RdlCompile.cache
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\RdlCompile.compiled
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.exe.config
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\EntityFramework.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.SQLite.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DesarrolloSng\Desktop\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.AssemblyReference.cache
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.exe.config
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.CurPad.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCurrencyboard.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmNumberboard.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.NumPad.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmExpenseGroup.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPurchaseList.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Languages.en_local.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Languages.es_local.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.CurrencyPad.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.NumberPad.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCategory.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmChangePrice.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCustomerPopup.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmItemPopup.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmModifiers.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmAbout.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCompany.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmModifierList.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmOrderType.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPayment.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPaymentType.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPrinters.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPurchase.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmRecallInvoices.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmSettings.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmSupplier.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmOpenTable.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmTable.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmTableLocation.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmTableView.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmExpenses.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmKeyboard.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmReports.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmItem.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCustomer.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmDatabase.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmDueInvoices.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmCustomerPayment.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmLogin.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.KeyPad.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.MyMessageBox.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Report.frmKitchenDisplay.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Properties.Resources.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.MoneyPad.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmSalesReturn.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmPrintView.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmBackOffice.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmMain.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmUserProfile.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.frmUser.resources
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.GenerateResource.cache
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.CoreCompileInputs.cache
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.exe
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS Restaurant.pdb
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.exe.config
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.exe
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\CYPOS Restaurant.pdb
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\EntityFramework.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\bin\Debug\System.Windows.Forms.dll
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\CYPOS.csproj.CopyComplete
+C:\Users\Desarollo\Desktop\POS\Main File\Sourcecode\CYPOS\obj\Debug\cypos.Migrations.initial.resources
